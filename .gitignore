@@ -1,0 +1,10 @@
+*.exe
+/Controller_Sim
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+myenv/
+.vs/
+.vscode/
+.DS_Store
